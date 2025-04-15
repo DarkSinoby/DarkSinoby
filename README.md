@@ -1,6 +1,6 @@
 <h1 align="center">Mikail 👋</h1>
 <p align="center">
-  💻 Студент ИИ и бэкенд-разработчик<br>
+  💻 Студент и бэкенд-разработчик<br>
   📍 RTU MIREA — Институт искусственного интеллекта<br>
   🚀 Увлекаюсь Java, Spring Boot, SQL
 </p>
