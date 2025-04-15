@@ -9,26 +9,22 @@
 
 ### 🛠️ Мой стек технологий:
 
-- 💻 Языки: `Java`, `SQL`, `JavaScript`
-- 🌐 Фреймворки: `Spring Boot`, `React`
-- 🗄️ БД: `MySQL`, `PostgreSQL`
-- 🛠️ Инструменты: `Git`, `Maven`, `IntelliJ IDEA`, `Postman`
+**💻 Языки программирования:**  
+`Java` • `SQL` • `JavaScript` • `HTML` • `CSS`
 
----
+**🌐 Фреймворки и библиотеки:**  
+`Spring Boot` • `Hibernate` • `Apache Kafka`
+
+**🗄️ Базы данных:**  
+`MySQL`
+
+**⚙️ Инструменты и технологии:**  
+`Git` • `Maven` • `IntelliJ IDEA`
 
 ### 📚 Проекты:
 
 | Название | Описание |
 |----------|----------|
 | 🔹 SaltProject | Веб-приложение для помощи оператору на производстве фасовки соли |
-| 🔹 Очистка сточных вод | Информационно-аналитическая система для металлургического комбината |
-
----
-
-### 📬 Связаться со мной:
-
-- Email: miknar77@mail.ru
-- Telegram: [@DarkSinoby](https://t.me/DarkSinoby)
-- LinkedIn (по желанию)
 
 ---
