@@ -19,7 +19,7 @@
 `MySQL`
 
 **⚙️ Инструменты и технологии:**  
-`Git` • `Maven` • `IntelliJ IDEA`
+`Git` • `Maven`
 
 ### 📚 Проекты:
 
