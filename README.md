@@ -1,8 +1,8 @@
-<h1 align="center">Привет, я Mikail Rahimov 👋</h1>
+<h1 align="center">Mikail 👋</h1>
 <p align="center">
   💻 Студент ИИ и бэкенд-разработчик<br>
   📍 RTU MIREA — Институт искусственного интеллекта<br>
-  🚀 Увлекаюсь Java, Spring Boot, SQL и промышленной автоматизацией
+  🚀 Увлекаюсь Java, Spring Boot, SQL
 </p>
 
 ---
