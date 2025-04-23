@@ -21,11 +21,13 @@
 **⚙️ Инструменты и технологии:**  
 `Git` • `Maven`
 
+---
+
 ### 📚 Проекты:
 
 | Название | Описание |
 |----------|----------|
 | 🔹 [SaltProject](https://github.com/DarkSinoby/SaltProject) | Веб-приложение для помощи оператору на производстве фасовки соли |
-| 🔹 [Motherboard-factory](https://github.com/DarkSinoby/Motherboard-factory) | Веб-приложение для помощи оператору на производстве материнских плат |
+| 🔹 [Motherboard-factory](https://github.com/DarkSinoby/Motherboard-factory) | Система мониторинга качества материнских плат (Spring Boot + React) |
 
 ---
