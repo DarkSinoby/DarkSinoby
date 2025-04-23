@@ -27,7 +27,7 @@
 
 | Название | Описание |
 |----------|----------|
-| 🔹 [SaltProject](https://github.com/DarkSinoby/SaltProject) | Веб-приложение для помощи оператору на производстве фасовки соли |
+| 🔹 [SaltProject](https://github.com/DarkSinoby/SaltProject) | Веб-приложение для помощи оператору на производстве фасовки соли (Spring Boot + React) |
 | 🔹 [Motherboard-factory](https://github.com/DarkSinoby/Motherboard-factory) | Система мониторинга качества материнских плат (Spring Boot + React) |
 
 ---
