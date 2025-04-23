@@ -26,5 +26,6 @@
 | Название | Описание |
 |----------|----------|
 | 🔹 [SaltProject](https://github.com/DarkSinoby/SaltProject) | Веб-приложение для помощи оператору на производстве фасовки соли |
+| 🔹 [Motherboard-factory](https://github.com/DarkSinoby/Motherboard-factory) | Веб-приложение для помощи оператору на производстве материнских плат |
 
 ---
